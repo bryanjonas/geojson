@@ -1,0 +1,28 @@
+{
+    "license": [
+        {
+            "id": 0,
+            "name": "GEOJsonToCOCO",
+            "url": ""
+        }
+    ],
+    "info": [
+        {
+            "year": 2019,
+            "version": "",
+            "description": "",
+            "contributor": "",
+            "url": "",
+            "date_created": "2019-12-12 22:11:02.655014"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Feature",
+            "supercategory": ""
+        }
+    ],
+    "images": [],
+    "annotations": []
+}
